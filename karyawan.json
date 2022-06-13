@@ -1,48 +1,34 @@
 [
   {
-    "id" : "1",
-    "nama" : "Farel",
-    "jabatan" : "webmaster",   
-    "email" : "farel@ummi.ac.id",
-    "phone" : "0813452637654",
-     "gaji" : "5000000",
-    "foto" : "https://ibb.co/hZVpQNx"
+    "nama": "Jack", 
+    "pekerjaan": "Front End Developer", 
+    "urlGambar": "https://i.ibb.co/T8YxQrH/user1-128x128.jpg",
+    "email": "jack@ummi.ac.id",
+    "phone": "0813452637654",
+    "gaji": "5.000.000",
   },
   {
-    "id" : "2",
-    "nama" : "Delvia",
-    "jabatan" : "web programmer",
-    "email" : "Delvia@ummi.ac.id",
-    "phone" : "08131234567",
-     "gaji" : "5000000",
-    "foto" : "https://ibb.co/hZVpQNx"
+    "nama": "Adam", 
+    "pekerjaan": "Back End Developer",
+    "urlGambar": "https://i.ibb.co/K6nk4RP/user8-128x128.jpg",
+    "email": "adam@ummi.ac.id",
+    "phone": "0813452637890",
+    "gaji": "5.500.000",
   },
   {
-    "id" : "3",
-    "nama" : "Dafa",
-    "jabatan" : "Front End Programmer",
-    "email" : "Dafa@ummi.ac.id",
-    "phone" : "0813452637654",
-     "gaji" : "5000000",
-    "foto" : "https://ibb.co/hZVpQNx"
+    "nama": "Jessica",
+    "pekerjaan": "Full Stack Developer",
+    "urlGambar": "https://i.ibb.co/jVZk0rX/user3-128x128.jpg",
+    "email": "jessica@ummi.ac.id",
+    "phone": "0813452636545",
+    "gaji": "6.000.000",
   },
   {
-    "id" : "4",
-    "nama" : "Asep",
-    "jabatan" : "Back End Programmer",
-    "email" : "Asep@ummi.ac.id",
-    "phone" : "02669373648",
-     "gaji" : "5000000",
-    "foto" : "https://ibb.co/hZVpQNx"
+    "nama": "Anna",
+    "pekerjaan": "Blockchain Developer",
+    "urlGambar": "https://i.ibb.co/hLHgxTK/user4-128x128.jpg",
+    "email": "anna@ummi.ac.id",
+    "phone": "0813452637656",
+    "gaji": "5.750.000",
   },
-  {
-    "id" : "5",
-    "nama" : "Sintia",
-    "jabatan" : "Full Stack Programmer",
-    "email" : "Sintia@ummi.ac.id",
-    "phone" : "0266736484",
-     "gaji" : "5000000",
-    "foto" : "https://ibb.co/hZVpQNx"
-  }
 ]
-  
