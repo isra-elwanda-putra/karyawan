@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "nama": "Jack", 
     "pekerjaan": "Front End Developer", 
     "urlGambar": "https://i.ibb.co/T8YxQrH/user1-128x128.jpg",
@@ -8,6 +9,7 @@
     "gaji": "5.000.000"
   },
   {
+    "id": "2",
     "nama": "Adam", 
     "pekerjaan": "Back End Developer",
     "urlGambar": "https://i.ibb.co/K6nk4RP/user8-128x128.jpg",
@@ -16,6 +18,7 @@
     "gaji": "5.500.000"
   },
   {
+    "id": "3",
     "nama": "Jessica",
     "pekerjaan": "Full Stack Developer",
     "urlGambar": "https://i.ibb.co/jVZk0rX/user3-128x128.jpg",
@@ -24,6 +27,7 @@
     "gaji": "6.000.000"
   },
   {
+    "id": "4",
     "nama": "Anna",
     "pekerjaan": "Blockchain Developer",
     "urlGambar": "https://i.ibb.co/hLHgxTK/user4-128x128.jpg",
