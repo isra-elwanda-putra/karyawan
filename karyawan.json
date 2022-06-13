@@ -5,7 +5,7 @@
     "urlGambar": "https://i.ibb.co/T8YxQrH/user1-128x128.jpg",
     "email": "jack@ummi.ac.id",
     "phone": "0813452637654",
-    "gaji": "5.000.000",
+    "gaji": "5.000.000"
   },
   {
     "nama": "Adam", 
@@ -13,7 +13,7 @@
     "urlGambar": "https://i.ibb.co/K6nk4RP/user8-128x128.jpg",
     "email": "adam@ummi.ac.id",
     "phone": "0813452637890",
-    "gaji": "5.500.000",
+    "gaji": "5.500.000"
   },
   {
     "nama": "Jessica",
@@ -21,7 +21,7 @@
     "urlGambar": "https://i.ibb.co/jVZk0rX/user3-128x128.jpg",
     "email": "jessica@ummi.ac.id",
     "phone": "0813452636545",
-    "gaji": "6.000.000",
+    "gaji": "6.000.000"
   },
   {
     "nama": "Anna",
@@ -29,6 +29,6 @@
     "urlGambar": "https://i.ibb.co/hLHgxTK/user4-128x128.jpg",
     "email": "anna@ummi.ac.id",
     "phone": "0813452637656",
-    "gaji": "5.750.000",
-  },
+    "gaji": "5.750.000"
+  }
 ]
