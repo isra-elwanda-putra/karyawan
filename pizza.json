@@ -26,21 +26,21 @@
             "nama": "American Favourite",
             "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
             "harga": 49500,
-            "gambar": "american-favourite.jpg"
+            "gambar": "https://i.ibb.co/5R3m5Pk/american-favourite.jpg"
         },
         {
             "kategori": "pasta",
             "nama": "Beef Spaghetti",
             "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
             "harga": 43000,
-            "gambar": "beef-spaghetti.jpg"
+            "gambar": "https://i.ibb.co/4SFC60x/beef-spaghetti.jpg"
         },
         {
             "kategori": "pasta",
             "nama": "Beef Lasagna",
             "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
             "harga": 48000,
-            "gambar": "beef-lasagna.jpg"
+            "gambar": "https://i.ibb.co/xCvHHQR/beef-lasagna.jpg"
         },
         {
             "kategori": "pasta",
@@ -61,7 +61,7 @@
             "nama": "Black Pepper Chicken",
             "deskripsi": "Ayam dengan saus lada hitam.",
             "harga": 40000,
-            "gambar": "black-pepper-chicken.jpg"
+            "gambar": "https://i.ibb.co/M60hcbL/black-pepper-chicken.jpg"
         },
         {
             "kategori": "nasi",
