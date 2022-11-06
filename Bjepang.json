@@ -1,10 +1,14 @@
 [
-{
-"sometime": "kapan-kapan", 
-"sometimes": "kadang-kadang"
-},
-{
-}, 
-{
-}
+  {
+    "sometime": "kapan-kapan", 
+    "sometimes": "kadang-kadang"
+  },
+  {
+    "aisatsu": "salam",
+    "aoi": "biru"
+    "akarui": "terang",
+    
+  }, 
+  {
+  }
 ]
